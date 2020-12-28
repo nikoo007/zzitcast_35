@@ -1,0 +1,6 @@
+#忽略文件仅对未追踪的文件有效
+# 忽略index.css
+index.css
+
+#忽略文件夹
+test/
